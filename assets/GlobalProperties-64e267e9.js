@@ -1,0 +1,1 @@
+import{c as n,b as e,t as o,u as s,o as r,z as l}from"./index-2778199a.js";const _={__name:"GlobalProperties",setup(c){const{proxy:t}=l();function a(){t.$strFlag="保熟",console.log(t.$strFlag)}return(u,p)=>(r(),n("div",null,[e("span",null,o(s(t).$strFlag),1),e("button",{onClick:a},"确定")]))}};export{_ as default};
